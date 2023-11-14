@@ -11,8 +11,11 @@ Olá! 👋 Meu nome é Breno Coutinho Rodrigues, e sou um aluno do Instituto Mau
 
 ## Habilidades
 
-- Linguagens de Programação: [Python, Java, JavaScript, HTML, CSS, SQL]
-- Ferramentas: [Figma, Visual Studio Code, Google Colab, Infogram, Alura, MySQL]
+- Linguagens de Programação:
+      - FrontEnd: [HTML, CSS]
+      - BackEnd: [Java, JavaScript, Python]
+      - Banco de Dados: [SQL]      
+- Ferramentas: [Figma, Visual Studio Code, Google Colab, Infogram, Alura, MySQL, LucidChart, LucidSpark, Draw.io]
 
 ## Contato
 
