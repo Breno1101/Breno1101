@@ -1,16 +1,44 @@
-### Hi there 👋
+💫 About Me:
+Olá! Meu nome é Luca Pinheiro Gomes
+Atualmente cursando o 1° ano de Ciência da Computação no Instituto Mauá de Tecnologia.
 
-<!--
-**Breno1101/Breno1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+LinkedIn
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+Java JavaScript TypeScript CSS3 Python GIT React Express.js Fastify Pandas MySQL MongoDB LINUX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+🔝 Top Contributed Repo
+
+
+
+
+About
+No description, website, or topics provided.
+Resources
+ Readme
+ Activity
+Stars
+ 0 stars
+Watchers
+ 1 watching
+Forks
+ 0 forks
+Report repository
+Releases
+No releases published
+Packages
+No packages published
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+
