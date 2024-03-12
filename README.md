@@ -5,15 +5,15 @@ Olá! 👋 Meu nome é Breno Coutinho Rodrigues, e sou um aluno do Instituto Mau
 ## Interesses
 
 - 💻 Desenvolvimento de Software
-- :lock: Segurança de redes 
+- :desktop_computer: Programador 
 - :card_file_box: Analista de Banco de Dados
 
 
 ## Habilidades
 
 - Linguagens de Programação:
-      - FrontEnd: [HTML, CSS]
-      - BackEnd: [Java, JavaScript, Python]
+      - FrontEnd: [HTML, CSS, JavaScript, React, React-Native, TypeScript]
+      - BackEnd: [Java, Python]
       - Banco de Dados: [SQL]      
 - Ferramentas: [Figma, Visual Studio Code, Google Colab, Infogram, Alura, MySQL, LucidChart, LucidSpark, Draw.io]
 
