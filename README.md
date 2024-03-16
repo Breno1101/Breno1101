@@ -1,34 +1,34 @@
-# Sobre Mim
+# About Me
 
-Olá! 👋 Meu nome é Breno Coutinho Rodrigues, e sou um aluno do Instituto Mauá de Tecnologia, no curso de Ciência da Computação.
+Hi! 👋 My name is Breno Coutinho Rodrigues, and I am student at Mauá Institute of Technology, in the course of Computer Science.
 
-## Interesses
+## Interests
 
-- 💻 Desenvolvimento de Software
-- :desktop_computer: Programador 
-- :card_file_box: Analista de Banco de Dados
+- 💻 Software development
+- :desktop_computer: Programmer
+- :card_file_box: database analyst
 
 
-## Habilidades
+## Skills
 
-- Linguagens de Programação:
+- Programming languages:
       - FrontEnd: [HTML, CSS, JavaScript, React, React-Native, TypeScript]
       - BackEnd: [Java, Python]
-      - Banco de Dados: [SQL]      
-- Ferramentas: [Figma, Visual Studio Code, Google Colab, Infogram, Alura, MySQL, LucidChart, LucidSpark, Draw.io]
+      - DataBase: [SQL]      
+- Tools: [Figma, Visual Studio Code, Google Colab, Infogram, Alura, MySQL, LucidChart, LucidSpark, Draw.io]
 
-## Contato
+## Contact
 
 - 📧 Email: brenocoutinhorodrigues@gmail.com
 - :camera: Instagram: [@_breno_coutinho_](https://www.instagram.com/_breno_coutinho_/)
 - 💼 LinkedIn: [Breno Coutinho Rodrigues](https://www.linkedin.com/in/breno-coutinho-rodrigues-a65a5b27a/)
 
-## Contribuições
+## Contributions
 
-Se você estiver interessado em colaborar nos meus projetos, sinta-se à vontade para abrir issues ou pull requests. Estou sempre aberto(a) a novas ideias e contribuições!
+If you are interested in collaborating on my projects, feel free to open issues or pull requests. I am always open to new ideas and contributions!
 
-## Agradecimentos
+## Complements
 
-Agradeço por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato.
+Thank you for visiting my profile! Feel free to explore my repositories and get in touch.
 
 
