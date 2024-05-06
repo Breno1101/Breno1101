@@ -4,15 +4,15 @@ Hi! 👋 My name is Breno Coutinho Rodrigues, and I am student at Mauá Institut
 
 ## Interests
 
-- 💻 Software development
+- 💻 Software Development
 - :desktop_computer: Programmer (Front-End)
-- :card_file_box: database analyst
+- :card_file_box: Database Analyst
 
 
 ## Skills
 
 - Programming languages:
-      - FrontEnd: [HTML, CSS, JavaScript, React, React-Native, TypeScript]
+      - FrontEnd: [HTML, CSS, JavaScript, React, React-Native, TypeScript, Flutter]
       - BackEnd: [Java, Python]
       - DataBase: [SQL]      
 - Tools: [Figma, Visual Studio Code, Google Colab, Infogram, Alura, MySQL, LucidChart, LucidSpark, Draw.io, Word, Power Point, Excel, Power BI]
