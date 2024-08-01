@@ -7,6 +7,7 @@ Hi! 👋 My name is Breno Coutinho Rodrigues, and I am student at Mauá Institut
 - 💻 Software Development
 - :desktop_computer: Programmer (Front-End)
 - :card_file_box: Database Analyst
+- 🖥️ Data Scientist
 
 
 ## Skills
