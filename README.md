@@ -14,8 +14,8 @@ Hi! 👋 My name is Breno Coutinho Rodrigues, and I am student at Mauá Institut
 
 - Programming languages:
       - FrontEnd: [HTML, CSS, React, React-Native, TypeScript, Flutter, Tailwind CSS]
-      - BackEnd: [Java, Python, Dart, JavaScript]
-      - DataBase: [SQL]      
+      - BackEnd: [Java, Python, JavaScript]
+      - DataBase: [MySQL, Postgres, DynamoDB]      
 - Tools: [Figma, Visual Studio Code, Google Colab, Infogram, Alura, MySQL, LucidChart, LucidSpark, Draw.io, Word, Power Point, Excel, Power BI]
 
 ## Contact
